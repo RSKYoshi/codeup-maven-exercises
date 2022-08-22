@@ -43,8 +43,5 @@ public class Main {
         System.out.printf("%nReversed string: ");
         System.out.println(StringUtils.reverse(userInput));
     }
-
-
-
 }
 
